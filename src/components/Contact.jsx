@@ -129,7 +129,7 @@ const Contact = () => {
                 className={styles.formControl}
               />
             </label>
-            <div className="flex items-center justify-center gap-4">
+            <div className="flex flex-col md:flex-row md:items-center w-full md:justify-center gap-4">
               <button
                 type='submit'
                 className='bg-gray-700 py-3 px-7 rounded-xl outline-none w-fit text-sm hover:scale-105 duration-300 ease-out text-white font-bold shadow-md shadow-primary'
