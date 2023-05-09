@@ -6,10 +6,10 @@ const App = () => {
   return (
     <BrowserRouter>
       <div className='relative z-0 bg-primary'>
-        {/* <div className='relative z-0'>
+        <div className='relative z-0'>
           <StarsCanvas />
           <Contact />
-        </div> */}
+        </div>
         <Navbar />
         <About />
         <Experience />
