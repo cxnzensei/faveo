@@ -14,7 +14,7 @@ const App = () => {
         <About />
         <Experience />
         <Works />
-        {/* <Feedbacks /> */}
+        <Feedbacks />
         <hr className="blur-sm" />
         {/* <Footer /> */}
       </div>
