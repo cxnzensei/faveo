@@ -71,7 +71,7 @@ const About = () => {
         The bond of trust continues as we are committed to providing student assignment help to the growing number of students in the universities.
       </motion.p>
 
-      <motion.div variants={textVariant()} className={styles.mdText}>
+      <motion.div variants={textVariant()} className={styles.sectionHeadText}>
         <span className="w-full flex mt-12 items-center justify-center">
           Our Services
         </span>
