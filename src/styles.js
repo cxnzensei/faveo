@@ -13,7 +13,7 @@ const styles = {
   sectionSubText: "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
   formControl: "bg-tertiary py-3 px-4 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium text-sm",
   icons: "rounded-full border p-1.5 text-gray-600 hover:scale-105 duration-100 ease-in hover:text-white",
-  footer: "text-lg hover:underline hover:underline-offset-2 duration-300 font-semibold ease-in-out"
+  footer: "text-lg hover:underline hover:underline-offset-2 duration-300 font-semibold ease-in-out",
 };
 
 export { styles };
