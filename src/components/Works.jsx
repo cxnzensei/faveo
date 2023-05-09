@@ -24,7 +24,7 @@ const ProjectCard = ({
 const Works = () => {
   return (
     <div>
-      <div className="text-center -mt-20">
+      <div className="text-center -mt-12">
         <div className={`${styles.sectionSubText} `}>Projecting our highest-rated</div>
         <div className={`${styles.sectionHeadText}`}>WORKS</div>
       </div>
