@@ -16,7 +16,7 @@ const App = () => {
         <Works />
         <Feedbacks />
         <hr className="blur-sm" />
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </BrowserRouter>
   );
