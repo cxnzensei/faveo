@@ -11,10 +11,10 @@ const App = () => {
           <Contact />
         </div>
         <Navbar />
-        <About />
-        <Experience />
-        <Works />
-        <Feedbacks />
+        {/* <About /> */}
+        {/* <Experience /> */}
+        {/* <Works /> */}
+        {/* <Feedbacks /> */}
         <hr className="blur-sm" />
         {/* <Footer /> */}
       </div>
