@@ -9,13 +9,13 @@ const App = () => {
         {/* <div className='relative z-0'>
           <StarsCanvas />
           <Contact />
-        </div>
+        </div> */}
         <Navbar />
         <About />
         <Experience />
         <Works />
         <Feedbacks />
-        <hr className="blur-sm" /> */}
+        <hr className="blur-sm" />
         <Footer />
       </div>
     </BrowserRouter>
