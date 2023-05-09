@@ -12,7 +12,7 @@ const App = () => {
         </div>
         <Navbar />
         <About />
-        {/* <Experience /> */}
+        <Experience />
         {/* <Works /> */}
         {/* <Feedbacks /> */}
         <hr className="blur-sm" />
