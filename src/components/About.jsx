@@ -62,7 +62,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] p-2 text-justify'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] p-2 md:text-justify'
       >
         Faveo is a trusted academic service provider based in India that helps students get desired grades in their academic careers.
         Are you seeking online assignment help? Then you are at the right place. Faveo is trusted by the students of famous and reputed Universities in the UK, USA, CANADA, AUSTRALIA, UAE, and so on.
