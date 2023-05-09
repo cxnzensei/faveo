@@ -1,7 +1,7 @@
 import React from 'react'
 import { logo, whatsapp } from '../assets';
 import { styles } from '../styles';
-import { Icon } from '@mdi/react';
+import Icon from '@mdi/react';
 import { mdiFacebook, mdiInstagram, mdiTwitter } from '@mdi/js';
 
 const Footer = () => {
